@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_habr=self.webpackChunkmy_habr||[]).push([[872],{872:(e,r,h)=>{h.r(r),h.d(r,{default:()=>s});var n=h(848);const s=function(){return(0,n.jsx)("div",{children:(0,n.jsx)("h1",{children:"about"})})}}}]);
